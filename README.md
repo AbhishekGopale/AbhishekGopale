@@ -6,7 +6,7 @@
 - 📫 How to reach me:  
   📧 Email: gopaleabhishek21@gmail.com  
   📱 Mobile: +91 9821512117  
-  💼 LinkedIn: [linkedin.com/in/abhishekgopale](https://linkedin.com/in/abhishekgopale) *(add your actual LinkedIn URL)*  
+  💼 LinkedIn: [linkedin.com/in/abhishekgopale](https://linkedin.com/in/abhishekgopale)   
   🌐 Portfolio: (https://abhishekgopale.github.io/abhi_portfolio/))*
 
 - 😄 Pronouns: He/Him
